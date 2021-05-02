@@ -156,3 +156,16 @@ End Sub
 ![Picture2](https://user-images.githubusercontent.com/79213116/116793814-10964800-aa97-11eb-8eac-aee33fc57f32.png)
 
 
+### Summary 
+Adavantages of refractored coding:
+
+- it makes the code more readable
+- it reduces the number of lines of code
+- it improves the speed and performance of the program
+
+Disadvantages of refractored coding:
+
+- it can be very time consuming, in case of a mistake it may take a lot of time to resolve due to the complexity of the code.
+
+After the use of refarctored code on the green stock analysis, the run time was reduced from approximately 32 seconds to the time shown in the pictures above. 
+Link for the detailed analysis can be found here: [VBA_CHALLENGE](https://github.com/Komal77rao/stock-analysis/blob/main/VBA_challenge.xlsm)
